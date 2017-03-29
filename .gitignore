@@ -1,0 +1,4 @@
+*.o
+embed/build
+*.d
+embed/.dep
